@@ -28,3 +28,22 @@ Tarefa Lucas Rossatto: Descrever a ideia inicial do Dashboard
 Tarefa Gabriel Andrade: Revisar o redme.md completo
 
 Tarefa Amália Pratte: Descrever brevemente o contexto e objetivo da análise 
+
+
+## Métricas e visualizações que vamos mostrar na Análise:
+ 
+- Média de horas de sono
+- Média de tempo de tela
+- Nível médio de estresse
+- Horas médias de redes sociais
+- Porcentagem de pessoas com a saúde mental boa ou ruim
+- Qual faixa etária tem mais tempo de tela
+
+---
+
+- Gráficos de dispersão para análisar relações (ex: tempo de tela X estresse)
+- Gráficos de barra para comparar
+- Gráfico mapa de calor (heatmap) para correlação de variáveis
+- Histograma para identificar padrões 
+
+Além das métricas, serão realizadas análises relacionais entre variáveis, com o objetivo de indentificar padrões e possíveis correlações relevantes.
