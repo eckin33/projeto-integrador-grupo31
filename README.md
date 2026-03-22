@@ -42,7 +42,7 @@ Tarefa Amália Pratte: Descrever brevemente o contexto e objetivo da análise
 ---
 
 - Gráficos de dispersão para análisar relações (ex: tempo de tela X estresse)
-- Gráficos de barra para comparar
+- Gráficos de barra para comparação
 - Gráfico mapa de calor (heatmap) para correlação de variáveis
 - Histograma para identificar padrões 
 
