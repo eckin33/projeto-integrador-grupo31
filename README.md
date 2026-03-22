@@ -47,3 +47,76 @@ Tarefa Amália Pratte: Descrever brevemente o contexto e objetivo da análise
 - Histograma para identificar padrões 
 
 Além das métricas, serão realizadas análises relacionais entre variáveis, com o objetivo de indentificar padrões e possíveis correlações relevantes.
+
+
+<h2>Cronograma - Projeto Integrador</h2>
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Etapa</th>
+      <th>Atividade</th>
+      <th>Responsável</th>
+      <th>Data de entrega</th>
+      <th>Andamento</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1 - Planejamento Inicial</td>
+      <td>Criação do repositório, adição dos integrantes e organização das pastas.</td>
+      <td>Juliana</td>
+      <td>20/03/2026</td>
+      <td>Concluído</td>
+    </tr>
+    <tr>
+      <td>1 - Planejamento Inicial</td>
+      <td>Definição das tarefas de cada integrante no README.</td>
+      <td>Juliana</td>
+      <td>20/03/2026</td>
+      <td>Concluído</td>
+    </tr>
+    <tr>
+      <td>1 - Planejamento Inicial</td>
+      <td>Elaboração do cronograma do projeto no README.md</td>
+      <td>Vitória</td>
+      <td>21/03/2026</td>
+      <td>Concluído</td>
+    </tr>
+    <tr>
+      <td>2 - Contextualização</td>
+      <td>Escrita do contexto e objetivo da análise sobre Saúde Mental e Tecnologia.</td>
+      <td>Amália</td>
+      <td>-</td>
+      <td>Pendente</td>
+    </tr>
+    <tr>
+      <td>3 - Processo de ETL</td>
+      <td>Planejamento e descrição das etapas de Extração, Transformação (Pandas) e Carga.</td>
+      <td>Integrantes</td>
+      <td>10/03/2026</td>
+      <td>Concluído</td>
+    </tr>
+    <tr>
+      <td>4 - Dashboard (Ideia Inicial)</td>
+      <td>Descrição da ideia inicial do dashboard e seu propósito.</td>
+      <td>Lucas</td>
+      <td>-</td>
+      <td>Pendente</td>
+    </tr>
+    <tr>
+      <td>4 - Dashboard (Métricas)</td>
+      <td>Indicação das visualizações e métricas que serão apresentadas no dashboard.</td>
+      <td>Erick</td>
+      <td>19/03/2026</td>
+      <td>Concluído</td>
+    </tr>
+    <tr>
+      <td>5 - Revisão Final</td>
+      <td>Apoio na ideação do dashboard e revisão completa do README.md.</td>
+      <td>Gabriel</td>
+      <td>-</td>
+      <td>Pendente</td>
+    </tr>
+  </tbody>
+</table>
