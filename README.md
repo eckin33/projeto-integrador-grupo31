@@ -65,8 +65,8 @@ Além das métricas, serão realizadas análises relacionais entre variáveis, c
     <tr>
       <td>1 - Planejamento Inicial</td>
       <td>Criação do repositório, adição dos integrantes e organização das pastas.</td>
-      <td>Juliana</td>
-      <td>20/03/2026</td>
+      <td>Erick</td>
+      <td>10/03/2026</td>
       <td>Concluído</td>
     </tr>
     <tr>
