@@ -12,7 +12,23 @@ Saúde Mental e o Mundo Digital
 - Gabriel Andrade
 - Amália Pratte
 
+## Contexto
+Vivemos em uma era de hiperconectividade, onde a integração entre a vida cotidiana e os dispositivos digitais é praticamente absoluta. A tecnologia facilitou o acesso à informação e a comunicação, assim como o uso intensivo de telas e redes sociais tem levantado preocupações crescentes sobre o bem-estar psicológico.
+
+Estudos recentes sugerem que a exposição prolongada ao ambiente digital pode estar associada à privação de sono, ao aumento dos níveis de cortisol (hormônio do estresse) e ao desenvolvimento de sintomas de ansiedade e depressão. Diante desse cenário, torna-se essencial investigar, por meio de dados, como o comportamento digital impacta diretamente indicadores biológicos e emocionais, como o sono e o estresse.
+
 ## Objetivo
+Este projeto tem como objetivo principal analisar e visualizar as correlações entre os hábitos de uso tecnológico e a saúde mental dos usuários. Através do processamento de dados com Python, buscamos responder a perguntas fundamentais:
+
+Impacto no Descanso: De que forma o tempo excessivo de tela compromete a quantidade e qualidade das horas de sono?
+
+Bem-estar Emocional: Existe uma correlação estatística entre o tempo gasto em redes sociais e o aumento do nível de estresse percebido?
+
+Demografia Digital: Quais faixas etárias apresentam os comportamentos de risco mais acentuados no ambiente virtual?
+
+Identificação de Padrões: Fornecer um panorama claro (através de um Dashboard) que ajude a identificar se o uso da tecnologia é o fator determinante para uma saúde mental classificada como "boa" ou "ruim".
+
+A finalidade última é transformar dados complexos em insights compreensíveis, promovendo uma reflexão sobre a necessidade de um equilíbrio saudável entre a vida analógica e a digital.
 
 ## Planejamento 
 Tarefa de Todos: Escolher a base de dados 
@@ -151,7 +167,7 @@ Além das métricas isoladas, serão realizadas análises relacionais entre vari
       <td>Escrita do contexto e objetivo da análise sobre Saúde Mental e Tecnologia.</td>
       <td>Amália</td>
       <td>-</td>
-      <td>Pendente</td>
+      <td>Concluído/td>
     </tr>
     <tr>
       <td>3 - Processo de ETL</td>
