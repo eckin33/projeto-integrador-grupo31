@@ -48,6 +48,69 @@ Tarefa Amália Pratte: Descrever brevemente o contexto e objetivo da análise
 
 Além das métricas, serão realizadas análises relacionais entre variáveis, com o objetivo de indentificar padrões e possíveis correlações relevantes.
 
+# Dashboard: Saúde Mental & Tecnologia
+ 
+## Descrição da Ideia Inicial
+ 
+Este dashboard tem como objetivo analisar o impacto do uso de tecnologia — especialmente tempo de tela e redes sociais — na saúde mental das pessoas. A proposta é transformar dados brutos em visualizações claras e objetivas, permitindo identificar padrões, correlações e tendências entre hábitos digitais, qualidade do sono, níveis de estresse e bem-estar geral.
+ 
+---
+ 
+## Propósito
+ 
+- Compreender como o uso excessivo de telas e redes sociais se relaciona com os níveis de estresse e a qualidade do sono.
+- Identificar quais faixas etárias são mais afetadas pelo tempo de tela.
+- Oferecer uma visão geral do estado da saúde mental da população analisada.
+- Apoiar decisões baseadas em dados sobre hábitos digitais saudáveis.
+ 
+---
+ 
+## Público-Alvo
+ 
+Pesquisadores, estudantes, profissionais de saúde e qualquer pessoa interessada em entender a relação entre tecnologia e saúde mental.
+ 
+---
+ 
+## Métricas Principais (KPIs)
+ 
+| Métrica | Descrição |
+|---|---|
+| Média de horas de sono | Média diária de horas de sono por pessoa |
+| Média de tempo de tela | Horas médias diárias de uso de dispositivos |
+| Nível médio de estresse | Escala de 1 a 10 |
+| Média de horas em redes sociais | Horas diárias em plataformas sociais |
+| % Saúde mental boa ou ruim | Proporção de pessoas por classificação |
+ 
+---
+ 
+## Visualizações Planejadas
+ 
+| Tipo de Gráfico | Objetivo |
+|---|---|
+| Dispersão (scatter plot) | Analisar relações entre variáveis — ex: tempo de tela × estresse |
+| Barras | Comparações entre grupos — ex: saúde mental por faixa etária |
+| Mapa de calor (heatmap) | Correlação entre todas as variáveis numéricas |
+| Histograma | Distribuição de variáveis — ex: horas de sono, tempo de tela |
+ 
+---
+ 
+## Análises Relacionais
+ 
+Além das métricas isoladas, serão realizadas análises relacionais entre variáveis com o objetivo de identificar padrões e possíveis correlações relevantes:
+ 
+- Tempo de tela × Nível de estresse
+- Horas de sono × Saúde mental
+- Redes sociais × Estresse
+- Faixa etária × Tempo de tela
+- Horas de sono × Tempo de tela
+ 
+---
+ 
+## Tecnologia Utilizada
+ 
+- **Linguagem:** Python
+- **Bibliotecas:** pandas, matplotlib, seaborn
+
 
 <h2>Cronograma - Projeto Integrador</h2>
 
