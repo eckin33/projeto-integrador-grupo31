@@ -180,8 +180,8 @@ Além das métricas isoladas, serão realizadas análises relacionais entre vari
       <td>4 - Dashboard (Ideia Inicial)</td>
       <td>Descrição da ideia inicial do dashboard e seu propósito.</td>
       <td>Lucas</td>
-      <td>-</td>
-      <td>Pendente</td>
+      <td>23/03/2026</td>
+      <td>Concluído</td>
     </tr>
     <tr>
       <td>4 - Dashboard (Métricas)</td>
@@ -194,8 +194,8 @@ Além das métricas isoladas, serão realizadas análises relacionais entre vari
       <td>5 - Revisão Final</td>
       <td>Apoio na ideação do dashboard e revisão completa do README.md.</td>
       <td>Gabriel</td>
-      <td>-</td>
-      <td>Pendente</td>
+      <td>23/03/2026</td>
+      <td>Concluído</td>
     </tr>
   </tbody>
 </table>
