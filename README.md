@@ -13,7 +13,7 @@ Saúde Mental e o Mundo Digital
 - Amália Pratte
 
 ## Contexto
-Vivemos em uma era de hiperconectividade, onde a integração entre a vida cotidiana e os dispositivos digitais é praticamente absoluta. A tecnologia facilitou o acesso à informação e a comunicação, assim como o uso intensivo de telas e redes sociais tem levantado preocupações crescentes sobre o bem-estar psicológico.
+Vivemos em uma era de hiperconectividade, onde a integração entre a vida cotidiana e os dispositivos digitais é praticamente absoluta. A tecnologia facilitou o acesso à informação e à comunicação, assim como o uso intensivo de telas e redes sociais tem levantado preocupações crescentes sobre o bem-estar psicológico.
 
 Estudos recentes sugerem que a exposição prolongada ao ambiente digital pode estar associada à privação de sono, ao aumento dos níveis de cortisol (hormônio do estresse) e ao desenvolvimento de sintomas de ansiedade e depressão. Diante desse cenário, torna-se essencial investigar, por meio de dados, como o comportamento digital impacta diretamente indicadores biológicos e emocionais, como o sono e o estresse.
 
@@ -68,7 +68,7 @@ Além das métricas, serão realizadas análises relacionais entre variáveis, c
  
 ## Descrição da Ideia Inicial
  
-Este dashboard tem como objetivo analisar o impacto do uso de tecnologia — especialmente tempo de tela e redes sociais — na saúde mental das pessoas. A proposta é transformar dados brutos em visualizações claras e objetivas, permitindo identificar padrões, correlações e tendências entre hábitos digitais, qualidade do sono, níveis de estresse e bem-estar geral.
+Este dashboard tem como objetivo analisar o impacto do uso de tecnologia, especialmente tempo de tela e redes sociais, na saúde mental das pessoas. A proposta é transformar dados brutos em visualizações claras e objetivas, permitindo identificar padrões, correlações e tendências entre hábitos digitais, qualidade do sono, níveis de estresse e bem-estar geral.
  
 ---
  
