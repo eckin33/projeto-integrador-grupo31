@@ -12,6 +12,10 @@ Saúde Mental e o Mundo Digital
 - Gabriel Andrade
 - Amália Pratte
 
+## Base de dados:
+- Nome: Mental Health & Technology Usage Dataset | Kaggle
+- Link: https://www.kaggle.com/datasets/waqi786/mental-health-and-technology-usage-dataset
+
 ## Contexto
 Vivemos em uma era de hiperconectividade, onde a integração entre a vida cotidiana e os dispositivos digitais é praticamente absoluta. A tecnologia facilitou o acesso à informação e à comunicação, assim como o uso intensivo de telas e redes sociais tem levantado preocupações crescentes sobre o bem-estar psicológico.
 
@@ -30,103 +34,24 @@ Identificação de Padrões: Fornecer um panorama claro (através de um Dashboar
 
 A finalidade última é transformar dados complexos em insights compreensíveis, promovendo uma reflexão sobre a necessidade de um equilíbrio saudável entre a vida analógica e a digital.
 
+---
+
 ## Planejamento 
 Tarefa de Todos: Escolher a base de dados 
 
-Tarefa Juliana Lins: Sugestão de base de dados e Definir as tarefas de cada integrante
+Tarefa Juliana Lins: Sugestão de base de dados e definir as tarefas de cada integrante
 
-Tarefa Vitória Ferreira: Sugestão de base de dados e Criar um cronograma 
+Tarefa Vitória Ferreira: Sugestão de base de dados e criar um cronograma 
 
-Tarefa Erick Bicalho: Sugestão de base de dados, Criação do Repositório, organização estrutural do Projeto, Indicar visualizações e métricas vamos apresentar no dashboard
+Tarefa Erick Bicalho: Sugestão de base de dados, criação do Repositório, organização estrutural do projeto, indicar visualizações e métricas vamos apresentar no dashboard
 
 Tarefa Lucas Rossatto: Descrever a ideia inicial do Dashboard
 
-Tarefa Gabriel Andrade: Revisar o redme.md completo
+Tarefa Gabriel Andrade: Revisar o readme.md completo
 
 Tarefa Amália Pratte: Descrever brevemente o contexto e objetivo da análise 
 
-
-## Métricas e visualizações que vamos mostrar na Análise:
- 
-- Média de horas de sono
-- Média de tempo de tela
-- Nível médio de estresse
-- Horas médias de redes sociais
-- Porcentagem de pessoas com a saúde mental boa ou ruim
-- Qual faixa etária tem mais tempo de tela
-
 ---
-
-- Gráficos de dispersão para análisar relações (ex: tempo de tela X estresse)
-- Gráficos de barra para comparação
-- Gráfico mapa de calor (heatmap) para correlação de variáveis
-- Histograma para identificar padrões 
-
-Além das métricas, serão realizadas análises relacionais entre variáveis, com o objetivo de indentificar padrões e possíveis correlações relevantes.
-
-# Dashboard: Saúde Mental & Tecnologia
- 
-## Descrição da Ideia Inicial
- 
-Este dashboard tem como objetivo analisar o impacto do uso de tecnologia, especialmente tempo de tela e redes sociais, na saúde mental das pessoas. A proposta é transformar dados brutos em visualizações claras e objetivas, permitindo identificar padrões, correlações e tendências entre hábitos digitais, qualidade do sono, níveis de estresse e bem-estar geral.
- 
----
- 
-## Propósito
- 
-- Compreender como o uso excessivo de telas e redes sociais se relaciona com os níveis de estresse e a qualidade do sono.
-- Identificar quais faixas etárias são mais afetadas pelo tempo de tela.
-- Oferecer uma visão geral do estado da saúde mental da população analisada.
-- Apoiar decisões baseadas em dados sobre hábitos digitais saudáveis.
- 
----
- 
-## Público-Alvo
- 
-Pesquisadores, estudantes, profissionais de saúde e qualquer pessoa interessada em entender a relação entre tecnologia e saúde mental.
- 
----
- 
-## Métricas Principais (KPIs)
- 
-| Métrica | Descrição |
-|---|---|
-| Média de horas de sono | Média diária de horas de sono por pessoa |
-| Média de tempo de tela | Horas médias diárias de uso de dispositivos |
-| Nível médio de estresse | Escala de 1 a 10 |
-| Média de horas em redes sociais | Horas diárias em plataformas sociais |
-| % Saúde mental boa ou ruim | Proporção de pessoas por classificação |
- 
----
- 
-## Visualizações Planejadas
- 
-| Tipo de Gráfico | Objetivo |
-|---|---|
-| Dispersão (scatter plot) | Analisar relações entre variáveis — ex: tempo de tela × estresse |
-| Barras | Comparações entre grupos — ex: saúde mental por faixa etária |
-| Mapa de calor (heatmap) | Correlação entre todas as variáveis numéricas |
-| Histograma | Distribuição de variáveis — ex: horas de sono, tempo de tela |
- 
----
- 
-## Análises Relacionais
- 
-Além das métricas isoladas, serão realizadas análises relacionais entre variáveis com o objetivo de identificar padrões e possíveis correlações relevantes:
- 
-- Tempo de tela × Nível de estresse
-- Horas de sono × Saúde mental
-- Redes sociais × Estresse
-- Faixa etária × Tempo de tela
-- Horas de sono × Tempo de tela
- 
----
- 
-## Tecnologia Utilizada
- 
-- **Linguagem:** Python
-- **Bibliotecas:** pandas, matplotlib, seaborn
-
 
 <h2>Cronograma - Projeto Integrador</h2>
 
@@ -199,3 +124,38 @@ Além das métricas isoladas, serão realizadas análises relacionais entre vari
     </tr>
   </tbody>
 </table>
+
+## Transformação de dados (ETL)
+
+### Para garantir a qualidade dessa análise, pretendemos realizar:
+
+- Limpeza: Identificar e tratar valores nulos ou duplicados.
+- Padronização: Converter tipos de dados (ex: Garantir que valores númericos sejam de fato do tipo número, para que não tenha erro na hora de calcular)
+- Categorizar: Agrupar idades em faixas etárias para facilitar comparação.
+
+
+## Métricas e visualizações que vamos mostrar na análise:
+ 
+- Média de horas de sono
+- Média de tempo de tela
+- Nível médio de estresse
+- Horas médias de redes sociais
+- Porcentagem de pessoas com a saúde mental boa ou ruim
+- Qual faixa etária tem mais tempo de tela
+
+---
+
+- Gráficos de dispersão para análisar relações (ex: tempo de tela X estresse)
+- Gráficos de barra para comparação
+- Gráfico mapa de calor (heatmap) para correlação de variáveis
+- Histograma para identificar padrões 
+
+Além das métricas, serão realizadas análises relacionais entre variáveis, com o objetivo de indentificar padrões e possíveis correlações relevantes.
+
+---
+
+# Dashboard: Saúde Mental & Tecnologia
+ 
+## Descrição da Ideia Inicial
+ 
+Este dashboard tem como objetivo analisar o impacto do uso de tecnologia, especialmente tempo de tela e redes sociais, na saúde mental das pessoas. A proposta é transformar dados brutos em visualizações claras e objetivas, permitindo identificar padrões, correlações e tendências entre hábitos digitais, qualidade do sono, níveis de estresse e bem-estar geral.  
