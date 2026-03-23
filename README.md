@@ -166,8 +166,8 @@ Além das métricas isoladas, serão realizadas análises relacionais entre vari
       <td>2 - Contextualização</td>
       <td>Escrita do contexto e objetivo da análise sobre Saúde Mental e Tecnologia.</td>
       <td>Amália</td>
-      <td>-</td>
-      <td>Concluído/td>
+      <td>23/03/2026</td>
+      <td>Concluído</td>
     </tr>
     <tr>
       <td>3 - Processo de ETL</td>
