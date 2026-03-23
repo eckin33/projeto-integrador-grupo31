@@ -32,7 +32,7 @@ Demografia Digital: Quais faixas etárias apresentam os comportamentos de risco 
 
 Identificação de Padrões: Fornecer um panorama claro (através de um Dashboard) que ajude a identificar se o uso da tecnologia é o fator determinante para uma saúde mental classificada como "boa" ou "ruim".
 
-A finalidade última é transformar dados complexos em insights compreensíveis, promovendo uma reflexão sobre a necessidade de um equilíbrio saudável entre a vida analógica e a digital.
+A finalidade é transformar dados complexos em insights compreensíveis, promovendo uma reflexão sobre a necessidade de um equilíbrio saudável entre a vida analógica e a digital.
 
 ---
 
@@ -158,4 +158,10 @@ Além das métricas, serão realizadas análises relacionais entre variáveis, c
  
 ## Descrição da Ideia Inicial
  
-Este dashboard tem como objetivo analisar o impacto do uso de tecnologia, especialmente tempo de tela e redes sociais, na saúde mental das pessoas. A proposta é transformar dados brutos em visualizações claras e objetivas, permitindo identificar padrões, correlações e tendências entre hábitos digitais, qualidade do sono, níveis de estresse e bem-estar geral.  
+Este dashboard tem como objetivo analisar o impacto do uso de tecnologia, especialmente tempo de tela e redes sociais, na saúde mental das pessoas. A proposta é transformar dados brutos em visualizações claras e objetivas, permitindo identificar padrões, correlações e tendências entre hábitos digitais, qualidade do sono, níveis de estresse e bem-estar geral.
+
+## Tecnologias
+
+- Python
+- Pandas
+- Streamlit
