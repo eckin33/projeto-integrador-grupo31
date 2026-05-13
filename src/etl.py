@@ -21,6 +21,17 @@ df.rename(columns={
     'Online_Support_Usage': 'Uso de Suporte Online'
 }, inplace=True)
 
+# Traduzir os conteúdos das colunas categóricas
+df['Gênero'] = df['Gênero'].map({'Male': 'Masculino', 'Female': 'Feminino', 'Other': 'Outro'})
+df['Status de Saúde Mental'] = df['Status de Saúde Mental'].map({'Good': 'Bom', 'Poor': 'Ruim', 'Fair': 'Regular', 'Excellent': 'Excelente'})
+df['Nível de Estresse'] = df['Nível de Estresse'].map({'Low': 'Baixo', 'Medium': 'Médio', 'High': 'Alto'})
+df['Acesso a Sistemas de Suporte'] = df['Acesso a Sistemas de Suporte'].map({'Yes': 'Sim', 'No': 'Não'})
+df['Impacto do Ambiente de Trabalho'] = df['Impacto do Ambiente de Trabalho'].map({'Negative': 'Negativo', 'Positive': 'Positivo', 'Neutral': 'Neutro'})
+df['Uso de Suporte Online'] = df['Uso de Suporte Online'].map({'Yes': 'Sim', 'No': 'Não'})
+
+# Remover a coluna ID do Usuário
+df.drop('ID do Usuário', axis=1, inplace=True)
+
 print(df.head())
 #print(df.info())
 #print(df.shape())
