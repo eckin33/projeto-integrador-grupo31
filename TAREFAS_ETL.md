@@ -1,7 +1,7 @@
 Juliana
-- Traduzir as colunas |  
-- Traduzir os conteúdos (ex: Male/Female, Low/Medium/High) |  
-- Remover coluna "User_ID" | 
+- Traduzir as colunas |  ✅
+- Traduzir os conteúdos (ex: Male/Female, Low/Medium/High) |  ✅
+- Remover coluna "User_ID" |  ✅
 
 Erick
 - Garantir que colunas de Horas sejam float e idade seja INT  |  ✅ 
