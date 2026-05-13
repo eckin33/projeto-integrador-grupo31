@@ -1,2 +1,0 @@
-Essa pasta: "data", será onde a base de dados ficará. 
-Esse arquivo txt pode ser excluido depois.
