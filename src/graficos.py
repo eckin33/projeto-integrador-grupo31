@@ -3,8 +3,6 @@ import plotly.express as px
 import plotly.graph_objects as go
 import numpy as np
 
-
-
 def grafico_distribuicao_saude(df):
     #grafico 1: Barras Simples
     counts = df['Status de Saúde Mental'].value_counts().reset_index()
