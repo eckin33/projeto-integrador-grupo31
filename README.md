@@ -10,7 +10,7 @@ Saúde Mental e o Mundo Digital
 - Erick Bicalho
 - Lucas Rossatto
 - Gabriel Andrade
-- Amália Pratte
+
 
 ## Base de dados:
 - Nome: Mental Health & Technology Usage Dataset | Kaggle
